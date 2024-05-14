@@ -1,0 +1,1 @@
+En esta carpeta se encuentra el software para instalar el entorno de programación como las extenciones de el ultimo firmware disponible para este y para agregar los sensores que no vienen por defecto en el software
