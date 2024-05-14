@@ -13,6 +13,13 @@ Este repositorio encontraras diferentes metodos con los que se puede usar el rob
 
 # EV3-G
 
+![image](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/9192525b-cc8c-40f6-b059-2c73236f5703)
+
+Este software esta basado en una programación gráfica fue desarrollado por National Instruments el cual se basa en bloques de programación los cuales se basan en secciones de acción, flujo de control, sensores, operaciones matemáticas, manejo de mensajes y bloques personalizados.
+
+[Conoce más](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/blob/main/EV3-G/EV3-G.md)
+
+
 # Scratch
 
 # ROBOTC
