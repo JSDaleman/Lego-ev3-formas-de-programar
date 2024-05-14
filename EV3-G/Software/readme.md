@@ -1,0 +1,1 @@
+En esta [carpeta](https://www.mediafire.com/folder/7x2ihsgde50c0/Ev3-G) se encuentra el software para instalar el entorno de programación como las extenciones de el ultimo firmware disponible para este y para agregar los sensores que no vienen por defecto en el software
