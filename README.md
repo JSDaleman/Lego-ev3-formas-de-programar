@@ -13,6 +13,8 @@ Este repositorio encontraras diferentes metodos con los que se puede usar el rob
 
 # EV3-G
 
+# Scratch
+
 # ROBOTC
 
 # LeJOS EV3
@@ -20,3 +22,5 @@ Este repositorio encontraras diferentes metodos con los que se puede usar el rob
 # el Toolbox MINDSTORMS
 
 # ev3dev
+
+# micropython
