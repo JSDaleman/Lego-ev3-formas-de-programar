@@ -11,5 +11,8 @@ La versión educativa esta enfocada en el uso de los sets 45544 que es el set ed
 
 La versión de hogar o home edition esta enfocada al uso del set 31313 en este encontraremos videos sobre el uso del software, intrucciones de contrucción de diferentes robots y ejempplos de codigos con estos robots.
 
+## Lego mindstorms EV3 Home Edition
 
+![EV3-G_Principal](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/0c6329dd-7f95-49f1-bd4b-cd9706de5448)
 
+En la pantalla principal encontramos el menú de opciones que nos permite abrir proyectos, crear nuevos proyecto, opciones de edición y manipular archivos para el bloque de programación.
