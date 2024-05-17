@@ -28,4 +28,6 @@ En la pantalla principal encontramos:
 - Comunidad en esta pestaña se encuentran varios proyectos que se pueden desarrollar con el robot.
 - Retos encontramos retos de robots diseñados en los cuales es necesario crear su programación.
 
-## 
+## Creación de un proyecto
+
+
