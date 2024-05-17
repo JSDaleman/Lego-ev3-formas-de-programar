@@ -15,4 +15,17 @@ La versión de hogar o home edition esta enfocada al uso del set 31313 en este e
 
 ![EV3-G_Principal](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/0c6329dd-7f95-49f1-bd4b-cd9706de5448)
 
-En la pantalla principal encontramos el menú de opciones que nos permite abrir proyectos, crear nuevos proyecto, opciones de edición y manipular archivos para el bloque de programación.
+En la pantalla principal encontramos:
+
+- el menú de opciones que nos permite manipular:
+  * Archivos: abrir proyectos, crear nuevos proyecto, opciones de edición y manipular archivos para el bloque de programación.
+  * Edición: Rehacer o deshacer acciones, usar los comandos de copiar, pegar o cortar y cambiar el idioma de la interfaz si tenemos paquetes de idiomas intalados.
+  * Herramientas: Aca podemos editar algunos sonidos e imagenes del robot, crear bloques personalizados, generar la configuración de red, importar bloques como los mencionados anterioremente o extraer progrmas que esten en la memoria del robot.
+  * Ayuda que nos dara soporte para comandos o información util según el caso.
+ 
+- Menú de proyecto en este podremos navegar entre diferentes proyectos abiertos o crear nuevos proyectos de trabajo.
+- Primeros pasos en esta pestaña podemos ver videos tutoriales que muestran como esta estruturado el software y como usar diferentes herramientas en el.
+- Comunidad en esta pestaña se encuentran varios proyectos que se pueden desarrollar con el robot.
+- Retos encontramos retos de robots diseñados en los cuales es necesario crear su programación.
+
+## 
