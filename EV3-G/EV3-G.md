@@ -18,7 +18,7 @@ La versión de hogar o home edition esta enfocada al uso del set 31313 en este e
 En la pantalla principal encontramos:
 
 - el menú de opciones que nos permite manipular:
-  * Archivos: abrir proyectos, crear nuevos proyecto, opciones de edición y manipular archivos para el bloque de programación.
+  * Archivo: abrir proyectos, crear nuevos proyecto, opciones de edición y manipular archivos para el bloque de programación.
   * Edición: Rehacer o deshacer acciones, usar los comandos de copiar, pegar o cortar y cambiar el idioma de la interfaz si tenemos paquetes de idiomas intalados.
   * Herramientas: Aca podemos editar algunos sonidos e imagenes del robot, crear bloques personalizados, generar la configuración de red, importar bloques como los mencionados anterioremente o extraer progrmas que esten en la memoria del robot.
   * Ayuda que nos dara soporte para comandos o información util según el caso.
@@ -30,5 +30,27 @@ En la pantalla principal encontramos:
 
 ## Creación de un proyecto
 
-Para crear un nuevo proyecto en el menú de proyectos podemos darle al simbolo de ``+'' 
+Para crear un nuevo proyecto en el menú de proyectos podemos darle al simbolo de "+" o en Archivo nuevo poryecto. Una vez se ha creado el nuevo proyecto podemos ir en el menú del proyecto al botón de la llave para ver la siguiente ventana.
+
+![EV3-G conf proyec](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/8a946768-4ab3-430e-bb34-27737da02f0a)
+
+Aca podemós ver tres partes principales:
+- la barra de navegación del proyecto en esta podremos movernos entre los diferentes programás o rutinas que se creen.
+- La documentación del proytecto aca podemos darle un nombre al proyecto, una descripción de que consta, alguna imagen demostrativa o video del proyecto.
+- Recursos del proyecto aca podemos ver todos los archivos de programa que se tiene para el proyecto, recursos de imagenes y sonidos, bloques personalizados,variables usadas y elementos exportados para el proyecto.
+
+En la ventana de "program" es donde podremos crear la logica de programación para el robot
+
+![EV3-G_programacion](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/2376efe9-75a2-4937-a748-eb41b8a78cf6)
+
+En esta encontramos varios elementos que son:
+- Ventana de programación donde arrastraremos y crearemos la secuencia de funcionamiento del programa.
+- Los bloques de programación los cuales permitiran generar: acciones, flujos de control, sensado, operaciones de datos y operaciones avanzadas.
+- Comunicaciones con el ev3 en esta parte podremos ver si el bloque de progamación esta conectado y por cual medio, sensores y motores conectados con sus puertos correspondientes y el estado de la memoria del robot.
+- Herramientas de edición de codigo que permitiran navegar la ventana de programación, hacer acciones y generar comentarios en el codigo y la herrmaienta de documentación en esta podremos hacer un libro de documentación que pude tener datos como instrucciones del programa, intrucciones de construcción del robot y entre otros datos relevantes del proyecto.
+
+ 
+
+
+
 
