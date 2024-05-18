@@ -49,7 +49,15 @@ En esta encontramos varios elementos que son:
 - Comunicaciones con el ev3 en esta parte podremos ver si el bloque de progamación esta conectado y por cual medio, sensores y motores conectados con sus puertos correspondientes y el estado de la memoria del robot.
 - Herramientas de edición de codigo que permitiran navegar la ventana de programación, hacer acciones y generar comentarios en el codigo y la herrmaienta de documentación en esta podremos hacer un libro de documentación que pude tener datos como instrucciones del programa, intrucciones de construcción del robot y entre otros datos relevantes del proyecto.
 
- 
+## Ejemplo de proyecto
+
+En el siguiente proyecto se realizo un [ejemplo 1](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/blob/main/EV3-G/Ejemplos/Ejemplo1.ev3) en donde el objetivo era hacer que el robot recorriera un espacio cerrado evitando chocar con las paredes.
+
+https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/02f5d9e5-5fc9-4b17-87cb-b270bab6b785
+
+
+
+
 
 
 
