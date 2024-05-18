@@ -55,8 +55,22 @@ En el siguiente proyecto se realizo un [ejemplo 1](https://github.com/JSDaleman/
 
 https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/02f5d9e5-5fc9-4b17-87cb-b270bab6b785
 
+## Ventajas y desventajas
 
+**Ventajas**
+- Con este software el inicio de uso del robot es sencillo y amigable con el usuario
+- La programación grafica permite ver duranta la ejecución el flujo del programa
+- El software permite documentar los programas de una forma muy completa
+- Se puede ver facilmente todos los recursos necesarios en el proyecto
 
+**Desventajas**
+- En grandes proyectos la depuración de código puede ser complicada
+- Solo permite uso de los sensores proporcionados por lego
+- El uso de variables y de multiples tareas requiere de flujos complejos de trabajo
+
+## Conclusiones
+
+Esta forma de programar el robot ev3 puede ser un muy buen comienzo para acercar a las personas a laboratorios STEM y dar fundamentos de programación asi como dar buenas practicas con documentación al trabajar en formato de proyectos. Ya para realizar tareas o aprender programación de alto nivel no es posible asi que la configuración puede escalar en comprención de código muy rapidamente. 
 
 
 
