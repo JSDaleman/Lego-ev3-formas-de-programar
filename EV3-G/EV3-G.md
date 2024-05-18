@@ -30,4 +30,5 @@ En la pantalla principal encontramos:
 
 ## Creación de un proyecto
 
+Para crear un nuevo proyecto en el menú de proyectos podemos darle al simbolo de ``+'' 
 
