@@ -4,11 +4,12 @@
 Este repositorio encontraras diferentes metodos con los que se puede usar el robot Lego mindstorms ev3. Entre lo que encontraras a:
 - EV3-G el cual es el entorno creado por lego para programación de forma grafica o por bloques.
 - Scratch es otro entorno creado por Lego el cual permite una programación por bloques muy sencilla de entender.
+- micropython es una forma tambien implementada por Lego la cual usando el IDE de Visual Studio Code permite el manejo con python del robot.
+- Open Roberta es un entorno de progrmación web que permite la progrmación del robot en leguaje NEPO que es un lenguaje gráfico.
 - ROBOTC el cual permite la programación de lenguaje C como simulación del robot.
 - LeJOS EV3 el cual es un entorno para programación en lenguaje Java.
 - el Toolbox MINDSTORMS de MATLAB el cual es un paquete para poder crear scripts en matlab que manejan el hardware de Lego mindstorms ev3.
 - ev3dev el cual es un sistema basado en linux debian que permite la programación del robot en diferentes lenguajes y trabajar diferentes herramientas de linux.
-- micropython es una forma tambien implementada por Lego la cual usando el IDE de Visual Studio Code permite el manejo con python del robot.
 
 # Robot para trabajar
 Ya que con el kit de lego presenta muchas configuraciones por facilidad en la demostración de diferentes ejemplos la configuración que se usara es la de [base motriz](https://assets.education.lego.com/v3/assets/blt293eea581807678a/blt6e7360758df8f1ea/5ec7c6dd2238e044d39d24b0/ev3-rem-driving-base.pdf?locale=es-es)
@@ -58,8 +59,11 @@ Este software esta basado en una programación gráfica fue desarrollado por Nat
 
 [Conoce más](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/blob/main/EV3-G/EV3-G.md)
 
-
 # Scratch
+
+# micropython
+
+# Open Roberta
 
 # ROBOTC
 
@@ -69,4 +73,4 @@ Este software esta basado en una programación gráfica fue desarrollado por Nat
 
 # ev3dev
 
-# micropython
+
