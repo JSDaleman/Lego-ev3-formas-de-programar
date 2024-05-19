@@ -61,6 +61,12 @@ Este software esta basado en una programación gráfica fue desarrollado por Nat
 
 # Scratch
 
+![Imagen_demostrativa](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/1029098f-3283-4655-a401-8a2dad91a4c3)
+
+Este software esta basado en una programación gráfica desarrollado por lego mejorando el software usado para EV3-G para hacer el acercamiento a la progrmación con el robot usando un leguaje grafico más parecido a Scratch con el cual se mejoro la carga de programás en el robot y los recursos visuales en la aplicación
+
+[Conoce más](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/blob/main/Scratch/Scratch.md)
+
 # micropython
 
 # Open Roberta
