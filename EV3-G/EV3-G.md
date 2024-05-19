@@ -72,6 +72,12 @@ https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/02f5d9
 
 Esta forma de programar el robot ev3 puede ser un muy buen comienzo para acercar a las personas a laboratorios STEM y dar fundamentos de programación asi como dar buenas practicas con documentación al trabajar en formato de proyectos. Ya para realizar tareas o aprender programación de alto nivel no es posible asi que la configuración puede escalar en comprención de código muy rapidamente. 
 
+## Links de interes
+- [Creación de planos con lego](https://www.youtube.com/watch?v=fxBBQ2g16hA)
+- [Fundamentos de programación](https://www.youtube.com/watch?v=mwioj9zvp6c)
+- [Retos de aprendizade de lego con robots moviles](https://education.lego.com/es-mx/lessons/ev3-robot-trainer/)
+- [Retos de aprendizade de lego ev3 como vehiculo](https://education.lego.com/es-mx/lessons/ev3-real-world-vehicles/)
+
 
 
 
