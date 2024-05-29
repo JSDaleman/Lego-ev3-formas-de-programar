@@ -4,7 +4,12 @@ Este entorno de programación esta disponible en la página de [lego educación]
 
 ![image](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/2cd0eaeb-bfaa-4d70-b57d-80d8fe5bd933)
 
+Además este lenguaje tambien se puede usar en la plataforma de [Scratch 3.0](https://scratch.mit.edu/ev3)
+
 # Elementos del software
 
 
 
+# Links de interes
+- [Scratch y el ev3](https://scratch.mit.edu/ev3)
+- [Interaccion entre ev3 y scratch](https://education.lego.com/en-us/product-resources/mindstorms-ev3/teacher-resources/scratch-how-to-videos/)
