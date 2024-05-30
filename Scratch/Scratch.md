@@ -8,7 +8,7 @@ Además este lenguaje tambien se puede usar en la plataforma de [Scratch 3.0](ht
 
 ![Imagen_demostrativa_Scratch](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/a3be6f87-9fa3-4156-836b-386c065043a9)
 
-La otra plataforma oficial para esto es [Microsoft MakeCode](https://makecode.mindstorms.com/#) en donde en comparación con el software de lego este nos permite realizar ciertos elementos de control de una mejor manera aunque el uso de sensores es un poco más extenso en el software de lego.
+La otra plataforma oficial para esto es [Microsoft MakeCode](https://makecode.mindstorms.com/#) en donde en comparación con el software de lego este nos permite realizar ciertos elementos de control de una mejor manera aunque el uso de sensores es un poco más extenso en el software de lego. Adicionalmente en este software tenemos varias extenciones asi como la posiblidad de cambiar el lenguaje a JavaScript pero esto se habla en la seccion de LeJOS_EV3
 
 ![image](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/768d30e6-090a-4173-8824-bfccd2611169)
 
