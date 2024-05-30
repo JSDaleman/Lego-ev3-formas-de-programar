@@ -4,7 +4,15 @@ Este entorno de programación esta disponible en la página de [lego educación]
 
 ![image](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/2cd0eaeb-bfaa-4d70-b57d-80d8fe5bd933)
 
-Además este lenguaje tambien se puede usar en la plataforma de [Scratch 3.0](https://scratch.mit.edu/ev3)
+Además este lenguaje tambien se puede usar en la plataforma de [Scratch 3.0](https://scratch.mit.edu/ev3) como se muestra a continuación con una aclaración y es que en la plataforma de scratch solo tenemos disponibles 3 sensores (ultra sonido, color y boton) junto a los motores lo cual genera a su vez ciertas limitaciones por las cuales el software de lego o la siguiente opción presentada pueden ser preferibles. 
+
+![Imagen_demostrativa_Scratch](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/a3be6f87-9fa3-4156-836b-386c065043a9)
+
+La otra plataforma oficial para esto es [Microsoft MakeCode](https://makecode.mindstorms.com/#) en donde en comparación con el software de lego este nos permite realizar ciertos elementos de control de una mejor manera aunque el uso de sensores es un poco más extenso en el software de lego.
+
+![image](https://github.com/JSDaleman/Lego-ev3-formas-de-programar/assets/70998067/768d30e6-090a-4173-8824-bfccd2611169)
+
+
 
 # Elementos del software
 
